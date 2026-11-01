@@ -14,8 +14,8 @@
    n'est lisible que par son propriétaire connecté).
    NE METS JAMAIS ici la clé « service_role / secret ».
    --------------------------------------------------------- */
-export const SUPABASE_URL = '';
-export const SUPABASE_ANON_KEY = '';
+export const SUPABASE_URL = 'https://supabase.com/dashboard/project/idcngrvcwcnkkwblqbnf';
+export const SUPABASE_ANON_KEY = 'sb_publishable_4K2OLRS980iF9ape-HLQQA_c3B9u_JL';
 
 /* Bibliothèques chargées à la demande (CDN). */
 export const CDN = {
